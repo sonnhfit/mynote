@@ -1,0 +1,8 @@
+- install docker : https://docs.docker.com/install/linux/docker-ce/ubuntu/
+- install docker-compose: https://docs.docker.com/compose/install/#install-compose
+- set permission for docker user: sudo usermod -aG docker $USER
+- you should reboot system
+- create pyenv virtualenv [python-version] [version-name]
+- pyenv local [env name] #set local env for folder with pyenv 
+- add docker with pycharm
+- buid docker: docker-compose up --build
