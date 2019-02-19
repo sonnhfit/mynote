@@ -1,4 +1,5 @@
 # Get started with github
+halo chào các bạn mình là sơn v
 
 ## step 1
 Cài đặt GITHUB tại  https://git-scm.com/download/win
