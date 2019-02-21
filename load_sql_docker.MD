@@ -1,6 +1,6 @@
 - show docker container id: ```docker ps```
 - docker-compose down
-- show docker volume ```shell docker volume  ls ```
+- show docker volume ``` docker volume  ls ```
 - remove volume sql exist with command : 
 - docker volume rm <name volume>
 - create docker db volume blank with command: docker-compose up -d db
