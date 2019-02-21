@@ -1,4 +1,5 @@
 0: docker-compose down
+show docker volume ```shell docker volume  ls ```
 1: remove volume sql exist with command : 
 2: docker volume rm <name volume>
 3: create docker db volume blank with command: docker-compose up -d db
