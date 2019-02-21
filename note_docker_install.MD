@@ -1,3 +1,5 @@
+
+Cài đặt docker và docker compose ở link dưới
 - install docker : https://docs.docker.com/install/linux/docker-ce/ubuntu/
 - install docker-compose: https://docs.docker.com/compose/install/#install-compose
 - set permission for docker user: sudo usermod -aG docker $USER
