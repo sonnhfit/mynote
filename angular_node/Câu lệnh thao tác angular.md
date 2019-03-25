@@ -20,3 +20,41 @@
 ```shell 
     ng serve
 ```
+
+## Build projects
+
+Biên dịch một angular project để deployment sử dụng lệnh sau:
+
+```shell
+    ng build <project>
+```
+
+Hoặc lệnh ngắn gọn sau đây:
+
+```shell
+    ng b <project>
+
+```
+## Tạo các thành phần của angluar
+
+### Component 
+```shell 
+    ng generate <schemetic>
+```
+
+trong đó 
+
+- appShell
+- application
+- class
+- component
+- directive
+- enum
+- guard
+- interface
+- library
+- module
+- pipe
+- service
+- serviceWorker
+- universal
