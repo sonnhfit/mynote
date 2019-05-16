@@ -34,3 +34,20 @@ Hướng đối tượng
 - danh sách liên kết
 - Một số thuật toán liên quan đến sắp sếp, tìm kiếm
 
+CƠ sở dữ liệu SQL, Mysql
+(cài một website bằng php wordpress)
+API, requests
+GET, POST, DELETE
+HTML, CSS, Javascript
+
+Django, Django restFramwod
+https://docs.djangoproject.com/en/2.2/
+
+restapi
+https://www.django-rest-framework.org/
+
+Docker 
+
+
+
+
