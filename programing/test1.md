@@ -38,6 +38,7 @@ for i in range(5, 101):
 Tạm ổn, nhưng mà thấy có vẻ vẫn phức tạm hóa vấn đề :3 
 
 ```python
+#trong mấy quyển sách bọn nó hay khai báo thế này cho nhanh =))) và rõ ràng chuẩn theo kiểu xml, json 
 users = [
     {'id': 1, 'name': 'son 1', 'age': 16, 'gender': True},
     {'id': 2, 'name': 'son 1', 'age': 56, 'gender': True},
