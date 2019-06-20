@@ -22,7 +22,7 @@ Khai báo danh sách gồm 4 các user biết mỗi user gồm các thuộc tín
 
 for i in range(5, 101):
     couter = 0
-    for j in range(2, i):
+    for j in range(2, i+1):
         if i%j==0:
             couter += 1
     if couter == 2:
