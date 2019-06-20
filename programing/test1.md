@@ -36,3 +36,39 @@ for i in range(5, 101):
 ## bài 2
 
 Tạm ổn, nhưng mà thấy có vẻ vẫn phức tạm hóa vấn đề :3 
+
+```python
+users = [
+    {'id': 1, 'name': 'son 1', 'age': 16, 'gender': True},
+    {'id': 2, 'name': 'son 1', 'age': 56, 'gender': True},
+    {'id': 3, 'name': 'son 1', 'age': 26, 'gender': False},
+    {'id': 4, 'name': 'son 1', 'age': 96, 'gender': False},
+]
+# cách 1
+print([user for user in users if user['gender']==True])
+
+# cách 2
+
+for user in users:
+    if user['gender'] == True:
+        print(user)
+
+
+# sắp sếp 
+print('chua sap sep')
+print(users)
+#cài đặt chay cái thuật toán sắp sếp đơn giản nhất -_- 
+#cái này khi học offline mình sẽ giai thích nó chạy như thế nào
+for i in range(len(users)):
+    for j in range(i+1, len(users)):
+        if users[i]['age'] < users[j]['age']:
+            # thuật toán đổi chỗ 2 phần tử của mảng
+            user1 = users[i]
+            users[i] = users[j]
+            users[j] = user1
+
+#in sau khi sắp sếp
+print(users)
+
+
+```
