@@ -49,8 +49,14 @@ Cộng các số sau
 
 - 1 Câu thì luôn có **S** + **V**
 
-## Đối với thì hiện tại 
+### Đối với thì hiện tại 
 
 - Những cái nào như kiểu: Tao, chúng mày.. kiểu vậy thì cho cùng 1 phe và động từ không cần phải chia
 - Những cái nào kiểu: Anh ấy, chị ấy, nó thì động từ đa số là phải thêm **s** hoặc **es** nhiều trường hợp đặc biệt thì áp dụng theo kiểu đặc biệt của nó
-- Còn ``To be`` Với **I -> am**, **They, we -> are** , ** He, she, it ->  is ** 
+- Còn ``To be`` Với **I - am**, **They, we - are** , **He, she, it ->  is** 
+
+### Thì quá khứ
+- **V** Bình thường thì đa số thêm ed hoặc nếu nó đặc biệt thì làm theo kiểu đặc biệt
+- ``To be``  với ``i thì dùng was``, `` were thì dùng với they, we``, còn với ``he, she, it `` thì dùng `` was``
+### Bài tập
+- Bài tập viết đoạn văn với các từ đặc biệt và những cấu trúc trên 
