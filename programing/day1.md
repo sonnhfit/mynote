@@ -41,4 +41,6 @@ Cộng các số sau
 - Tại sao lại cần địa chỉ IP
 - Tại sao lại phân biệt địa chỉ IP động và địa chỉ IP tĩnh 
 - Vẽ biểu đồ use case của website bán hàng quần áo (đơn giản)
+- Vẽ biểu đồ cơ sở dữ liệu của các quan hệ sau: `` Một sinh viên có thể học nhiều lớp học`` và ``1 lớp học có thể có nhiều sinh viên``
+
 
