@@ -14,7 +14,8 @@
 Đổi các số sau ra hệ nhị phân (bin)
 
 ```
-45, 50
+45
+50
 ```
 Đổi các số sau ra hệ 10 (dec) và hệ 16 (hex)
 ```
@@ -32,6 +33,12 @@ Cộng các số sau
 ```
 
 ### Bài 3
-- Mô tả theo ý hiểu việc máy tính lưu trữ dữ liệu trong máy tính như thế nào ?
-- Tại sao lại cần có các loại: ``Ổ cứng -> Ram -> Cache -> register``
+- Mô tả theo ý hiểu việc máy tính lưu trữ dữ liệu như thế nào ?
+- Tại sao lại cần có các loại: ``Ổ cứng -> Ram -> Cache -> Register``
+- 1 Hệ điều hành gồm những phần chính nào
+
+### Bài 4
+- Tại sao lại cần địa chỉ IP
+- Tại sao lại phân biệt địa chỉ IP động và địa chỉ IP tĩnh 
+- Vẽ biểu đồ use case của website bán hàng quần áo (đơn giản)
 
