@@ -25,8 +25,7 @@ for i in range(a, b+1):
         
 ```
 2. C++ code 
-```cpp
-  GNU nano 2.9.3                                                                                     son.cpp                                                                                                
+```cpp                                                                                               
 
 #include <iostream>
 
