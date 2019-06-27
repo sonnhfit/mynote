@@ -10,7 +10,8 @@ Có thể điều này sẽ giúp những bạn giống mình biết đâu xem v
 Có một điều mà mình nhật thấy rất nhỏ bé những vô cùng quan trọng trong tiếng anh đó là: Một câu thì luôn có 
 
 **Chủ ngữ** + **Động Từ**
-Nếu câu nào mà không có cấu trúc trên thì nó không phải một câu 
+Nếu câu nào mà không có cấu trúc trên thì nó không phải một câu hoặc cấu trúc nó bị sai 
+
 
 
 
