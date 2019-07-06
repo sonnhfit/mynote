@@ -8,4 +8,4 @@ a long-haul flight from all the major tourist-generating markets of world.
 
 - in 1999, Tourism **New Zealand** ``launched`` a campaign to ``communicate`` a new brand position to the world. 
 
-- **The campaign** ``focused`` on New Zealand's scenic beauty, ``` -exhilarating``` outdoor activities and authentic Maori culture, anđ it made new zealand one of the strongest national brands in the world 
+- **The campaign** ``focused`` on New Zealand's scenic beauty, **``exhilarating``** outdoor activities and authentic Maori culture, anđ it made new zealand one of the strongest national brands in the world 
