@@ -12,6 +12,17 @@ a long-haul flight from all the major tourist-generating markets of world.
 
 - **A key feature** of the campaign ``was`` **the website www.newzealand.com**, which ```?provided``` potential visitors to New Zealand with a single gateway to everything the destination ``had?`` to offer.
 
-The heart of the website was a database of tourism services operators, both those based in New Zealand and those based abroad which offered tourism servicesto the country.
+- **The heart of the website** ``was`` a database of tourism services operators, both those ``based`` in New Zealand and those ``based`` abroad which ``offered`` tourism services to the country.
+
+- **Any tourism-related business could be ``listed`` by filling in a simple form **
+- **This meant that ``even`` the smallest bed and breakfast address or specialist activity provider could ``gain`` a web presence with access to an audierice of long-hayk visitors**
+- in addition, because participating businesses ``were`` able to ``update`` the details they gave on a regular basis, the information provided ``remained`` accurate.
+- And to ``maintain`` and ``improve`` standards, Tourism New Zealand organised a scheme whereby organisations ``appearing`` on the website underwent an independent evaluation against a set of agreed national standards of quality. 
+- As part of this, the effect of each business on the environment ``was`` considered
+
+- **To ``communicate`` the New Zealand experience, the site also ``carried`` features relating to famous people and places**
+
+One of the most popular was an interview with former New Zealand All Blacks rugby captain Tana Umaga
+
 
 
