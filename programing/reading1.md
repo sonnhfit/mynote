@@ -22,7 +22,9 @@ a long-haul flight from all the major tourist-generating markets of world.
 
 - **To ``communicate`` the New Zealand experience, the site also ``carried`` features relating to famous people and places**
 
-One of the most popular was an interview with former New Zealand All Blacks rugby captain Tana Umaga
+- One of the most popular ``was`` an interview with former New Zealand All Blacks rugby captain Tana Umaga
+- Another feature that attracted a lot of attention ``was`` an interactive jouney through a number of the locations chosen for blockbuster films which had made use of New Zealand's stunning scenery as a backrop.
+
 
 
 
