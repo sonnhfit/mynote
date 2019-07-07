@@ -11,3 +11,12 @@
   S + have/has + V(3)
   
   ```
+  
+  - i usually reply emails as soon as possible  
+  
+  - Do you want to take the bus with me to the party ? please let me know as soon as possible.
+  
+  - Yesterday, Her lecture was as interesting as his one 
+  
+
+  
