@@ -19,4 +19,9 @@
   - Yesterday, Her lecture was as interesting as his one 
   
 
-  
+ - The city is as crowded as the countryside
+ 
+ yesterday. she took the bus as fast as i did (took)
+ 
+ - yesterday, she slept as late as I did
+ 
