@@ -12,6 +12,8 @@ sh install.sh
 config zsh pyenv 
 https://github.com/pyenv/pyenv-virtualenv/issues/233
 
+I changed my ```~/.zshrc``` from:
+
 ```
 export PATH="$HOME/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
