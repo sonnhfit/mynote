@@ -11,3 +11,9 @@ sh install.sh
 ```
 config zsh pyenv 
 https://github.com/pyenv/pyenv-virtualenv/issues/233
+
+```
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+```
