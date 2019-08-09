@@ -1,4 +1,8 @@
 https://github.com/robbyrussell/oh-my-zsh
-
+cai
+https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
+```
+sudo apt install zsh
+```
 config zsh pyenv 
 https://github.com/pyenv/pyenv-virtualenv/issues/233
