@@ -23,6 +23,8 @@ pyenv virtualenv 3.6.6 newenv
 ### 5. cài đặt django bằng lệnh 
 
 ``` pip install django ```
+sau đó tạo requaiment file để cấu hình các package và thư viện dùng cho dự án như sau 
+``` pip freeze > requirements.txt```
 
 ### 6. tạo project django mới bằng lệnh sau 
 
@@ -61,7 +63,7 @@ volumes:
   postgres_data:
 
 ```
-### Tạo 1 file 
+### 8. Tạo 1 file 
 ```Dockerfile```
 Với nội dung như sau 
 
@@ -76,3 +78,4 @@ RUN pip install -r requirements.txt
 ADD . /code/
 
 ```
+
