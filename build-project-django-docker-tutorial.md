@@ -1,36 +1,36 @@
 Bật termial ở máy rồi thực hiện các bước sau
-1. Tạo 1 thư mục mới bằng lệnh sau 
+### 1. Tạo 1 thư mục mới bằng lệnh sau 
 ```
 mkdir tenthumuc  
 ```
 trong đó ```tenthumuc``` la tên thư mục của bạn 
 
-2. di chuyển thư mục làm việc working dir vào trong thư mục vừa tạo 
+### 2. di chuyển thư mục làm việc working dir vào trong thư mục vừa tạo 
 
 ```
 cd tenthumuc 
 ```
 
-3. tạo virtual env với pyenv lưu ý cần cài đặt pyenv và sử dụng pyenv để install python 3.6.6 trước 
+### 3. tạo virtual env với pyenv lưu ý cần cài đặt pyenv và sử dụng pyenv để install python 3.6.6 trước 
 
 ```
 pyenv virtualenv 3.6.6 newenv 
 
 ```
-4. active env bằng lệnh sau 
+### 4. active env bằng lệnh sau 
 ``` pyenv local newenv ```
 
-5. cài đặt django bằng lệnh 
+### 5. cài đặt django bằng lệnh 
 
 ``` pip install django ```
 
-6. tạo project django mới bằng lệnh sau 
+### 6. tạo project django mới bằng lệnh sau 
 
 ``` django-admin startproject yourproject .
 ```
 lưu ý là lệnh trên có đáu "." 
 
-7. tạo 1 file 
+### 7. tạo 1 file 
 ``` docker-compose.yml ```
 với nội dung như sau 
 
