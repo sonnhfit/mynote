@@ -48,12 +48,6 @@ services:
       POSTGRES_PASSWORD: rootapp123
     volumes:
       - postgres_data:/var/lib/postgresql/data/
-  redis:
-    image: "redis:alpine"
-    volumes:
-      - redis_data:/data
-    ports:
-      - "6379:6379"
   web:
     build: .
     command: bash -c "python manage.py migrate --noinput && python manage.py runserver 0.0.0.0:8000"
