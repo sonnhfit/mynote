@@ -81,4 +81,12 @@ RUN pip install -r requirements.txt
 ADD . /code/
 
 ```
+### 9. Mở website trên trình duyệt nếu thấy trang default của django màu xanh lá là oke 
+địa chỉ ở 
+(http://0.0.0.0:8000/)[http://0.0.0.0:8000/]
+
+hoặc 
+
+(http://127.0.0.1:8000/)[http://127.0.0.1:8000/]
+
 
