@@ -26,7 +26,8 @@ pyenv virtualenv 3.6.6 newenv
 
 ### 6. tạo project django mới bằng lệnh sau 
 
-``` django-admin startproject yourproject .
+```
+django-admin startproject yourproject .
 ```
 lưu ý là lệnh trên có đáu "." 
 
