@@ -17,4 +17,8 @@ dùng lệnh
 dùng lệnh ``git push``
 Lưu ý sẽ có yêu cầ u nhập username và password 
 
-## phiên làm việc tiếp th
+## phiên làm việc tiếp theo 
+
+Nếu làm việc nhóm có người đã sửa code mình cần pull về code mới của họ bằng lệnh ``git pull ``
+
+sau đó viết tiếp code rồi lại add,c
