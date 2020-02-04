@@ -8,3 +8,8 @@ Cài đặt docker và docker compose ở link dưới
 - pyenv local [env name] #set local env for folder with pyenv 
 - add docker with pycharm
 - buid docker: docker-compose up --build
+
+## run redis docker compose
+```
+docker-compose run redis redis-server
+```
