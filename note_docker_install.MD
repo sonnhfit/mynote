@@ -13,3 +13,11 @@ Cài đặt docker và docker compose ở link dưới
 ```
 docker-compose run redis redis-server
 ```
+
+
+To delete all containers including its volumes use,
+
+docker rm -vf $(docker ps -a -q)
+To delete all the images,
+
+docker rmi -f $(docker images -a -q)
