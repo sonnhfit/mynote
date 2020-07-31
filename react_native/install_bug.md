@@ -11,3 +11,5 @@ xcrun: error: unable to lookup item 'Path' in SDK 'iphoneos'
 then put this sudo xcode-select --switch /Applications/Xcode.app
 
 Then install pod again
+
+sudo npm install --global --unsafe-perm ios-deploy
