@@ -1,1 +1,2 @@
 - Để tăng tốc độ làm việc bạn có thể cấu hình **Build Proxy** 
+- Phát phim bằng tổ hợp phím **ALT + A **
