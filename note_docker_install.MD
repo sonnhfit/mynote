@@ -25,3 +25,9 @@ remove all docker volume
 ```
 docker volume rm $(docker volume ls -q)
 ```
+Note docker copy file from folder to volume data
+```
+docker container create --name dummy -v myvolume:/root hello-world
+docker cp c:\myfolder\myfile.txt dummy:/root/myfile.txt
+docker rm dummy
+```
