@@ -21,3 +21,5 @@ Không có dấu chấm tạo thêm 1 thư mục rồi  tạo project ở trong 
 python manage.py runserver
 ```
 
+[video buổi 1](https://youtu.be/bWkUdsy8YGE)
+
