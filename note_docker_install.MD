@@ -41,4 +41,16 @@ docker-compose build
 docker-compose up
 ```
 
-###  
+###  một số lệnh linux  hay dùng 
+-  hiển thị file trong thư mục 
+```
+ls 
+```
+- xoá 1 thư mục   
+```
+rm -rf tenthumuc 
+```
+- Chuyển thư mục làm việc ở terminal  
+```
+cd tenthumuc
+```
