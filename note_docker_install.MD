@@ -54,3 +54,7 @@ rm -rf tenthumuc
 ```
 cd tenthumuc
 ```
+- Trở về thư mục cha 
+```
+cd ../
+```
