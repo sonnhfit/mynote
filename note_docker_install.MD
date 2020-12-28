@@ -31,3 +31,14 @@ docker container create --name dummy -v myvolume:/root hello-world
 docker cp c:\myfolder\myfile.txt dummy:/root/myfile.txt
 docker rm dummy
 ```
+### một số lệnh docker hay dùng
+- Để build một dự  án docker sử dụng compose  
+```
+docker-compose build 
+```
+- Để chạy một dự án đã build 
+```
+docker-compose up
+```
+
+###  
