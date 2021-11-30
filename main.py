@@ -268,7 +268,7 @@ class MetamonPlayer:
             os.remove(back_fn)
 
         if self.output_stats:
-            stats_df.to_csv(summary_file_name, index=False, sep="\t")
+            stats_df.to_csv(summary_file_name, index=False, sep=";")
 
         mtm_stats_df = pd.concat(self.mtm_stats_df)
         if os.path.exists(mtm_stats_file_name) and self.output_stats:
