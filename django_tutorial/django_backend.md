@@ -74,6 +74,13 @@ Trong docker mỗi service thì là một cái container có thể nói một c�
 - build: đi settup những gì mình đã định nghĩa ở trên 
 
     - `docker-compose build`
+    - `docker-compose build --no-cache`
 - chạy dự án 
-    - `docker-compose up`
+    - `docker-compose up` chạy dự án 
+    - `docker-compose up -d` để chạy ẩn trang web khi tắt terminal 
+    - `docker ps` hiển thị những dịch vụ đang chạy 
+- xoá container, image, volume 
+    - docker rm <container id>
+
+
 
