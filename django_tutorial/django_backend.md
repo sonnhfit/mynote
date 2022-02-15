@@ -90,8 +90,22 @@ Trong docker mỗi service thì là một cái container có thể nói một c�
     
     ### quy trình viết một API 
     - viết model 
+    
+    ```
+    
+    class Order(models.Model):
+        email = models.CharField(max_length=255)
+        address = models.CharField(max_length=255)
+
+    ```
     - makemigration 
+    ```
+    docker-compose run web python manage.py makemigrations
+    ```
     - migrate để tạo ra bảng ở db 
+    ```
+    docker-compose run web python manage.py migrate
+    ```
     - nếu thích thì thêm admin để quản lí hay xem nhanh 
     - viết một cái view (có thể tuỳ từng task vụ mà anh sẽ cần gọi đến cái ultil, hoặc task celery, background task)
         - định nghĩa tham số serializer của django rest framework 
