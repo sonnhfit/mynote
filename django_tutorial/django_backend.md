@@ -90,6 +90,14 @@ Trong docker mỗi service thì là một cái container có thể nói một c�
     - makemigration 
     - migrate để tạo ra bảng ở db 
     - nếu thích thì thêm admin để quản lí hay xem nhanh 
+    - viết một cái view (có thể tuỳ từng task vụ mà anh sẽ cần gọi đến cái ultil, hoặc task celery, background task)
+        - định nghĩa tham số serializer của django rest framework 
+        - get 
+        - post 
+        - put 
+        - delete 
+    - liên kết cái view đó với một url 
+    
     
     
     
