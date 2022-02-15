@@ -29,6 +29,7 @@ https://docs.python.org/3/library/venv.html
 - https://github.com/sonnhfit/django_base
 - https://github.com/saleor/saleor
 - https://github.com/MicroPyramid/Django-CRM
+- https://github.com/creativetimofficial/black-dashboard-django
 
 2. default 
 ```
@@ -81,6 +82,19 @@ Trong docker mỗi service thì là một cái container có thể nói một c�
     - `docker ps` hiển thị những dịch vụ đang chạy 
 - xoá container, image, volume 
     - docker rm <container id>
+    
+    
+    
+    ### quy trình viết một API 
+    - viết model 
+    - makemigration 
+    - migrate để tạo ra bảng ở db 
+    - nếu thích thì thêm admin để quản lí hay xem nhanh 
+    
+    
+    
+    
+    
 
 
 
