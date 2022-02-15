@@ -71,4 +71,9 @@ polls/
 Trong docker mỗi service thì là một cái container có thể nói một cách dễ  hiểu là một cái máy ảo, mình phải cài rất nhiều thứ linh tinh ví dụ phần mềm, thư viện, env, ... nó định nghĩa trong file `docker-compose.yaml` và file `Dockerfile`
 
 
+- build: đi settup những gì mình đã định nghĩa ở trên 
+
+    - `docker-compose build`
+- chạy dự án 
+    - `docker-compose up`
 
