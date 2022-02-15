@@ -53,7 +53,7 @@ polls/
 
 4.
 
-
+5. unit test https://pytest-django.readthedocs.io/en/latest/
 
 #### lưu trữ media 
 - https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
