@@ -65,3 +65,5 @@ polls/
 - db: 
     - backup + restore https://github.com/sonnhfit/mynote/blob/master/load_sql_docker.MD
 
+- celery: lập lịch, bất đồng bộ, task chạy ẩn 
+
