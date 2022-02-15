@@ -57,4 +57,11 @@ polls/
 
 #### lưu trữ media 
 - https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
-- 
+
+
+### docker service 
+- nginx webserver, proxy, cân bằng tải
+- redis cơ sở dữ liệu trên ram cache. OTP tồn tại 60s sử dụng redis 
+- db: 
+    - backup + restore https://github.com/sonnhfit/mynote/blob/master/load_sql_docker.MD
+
