@@ -83,7 +83,10 @@ Trong docker mỗi service thì là một cái container có thể nói một c�
 - xoá container, image, volume 
     - docker rm <container id>
     
-    
+    ### tao admin user 
+    ```
+    docker-compose run web python manage.py createsuperuser
+    ```
     
     ### quy trình viết một API 
     - viết model 
