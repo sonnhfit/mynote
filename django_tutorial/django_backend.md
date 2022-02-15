@@ -13,4 +13,38 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 theo cách thông thường 
 https://docs.python.org/3/library/venv.html
 - tạo project sử dụng django-admin strat project 
+
+### Một số lệnh trong manage.py 
+- startproject tạo project 
+- shell chạy thử lệnh 
+- startapp tạo app 
+- runserver chạy dự án 
+- makemigrations tạo ra file mô tả, lưu lại lịch sử thay đổi trên cơ sở dữ liệu 
+- migrate thực thi những lệnh do makemigrations tạo ra rồi apply nó vào trong database thật 
+-
+
+### Tổ chức thư mục 
+
+1. Gợi ý 
+- https://github.com/sonnhfit/django_base
+- https://github.com/saleor/saleor
+- https://github.com/MicroPyramid/Django-CRM
+
+2. default 
+```
+mysite/
+    manage.py
+    mysite/
+        __init__.py
+        settings.py
+        urls.py
+        asgi.py
+        wsgi.py
+```
+4.
+
+
+
+#### lưu trữ media 
+- https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 - 
