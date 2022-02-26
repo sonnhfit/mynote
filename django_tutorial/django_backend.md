@@ -117,6 +117,19 @@ Trong docker mỗi service thì là một cái container có thể nói một c�
     
     
     
+    ## update data với API của hệ thống thứ 3 vào trong database của mình 
+    
+    ### Thông qua webhook 
+        - Viết một API để insert data vào trong database 
+        - Cài đặt API vào trong webhook của trang web bên thứ 3(ví dụ: shoppee) thường là để link của cái API ở bước trên vào 
+    
+    
+    ### cứ 1 time nhất định thì vào trang đó lấy dữ liệu hoặc gọi API lấy dữ liệu 
+        - Viết một task của celery gọi API hoặc vào trang web của bên thứ 3 lấy dữ liệu -> thêm vào database 
+
+    
+    
+    
     
     
     
